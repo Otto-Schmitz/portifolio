@@ -1,0 +1,56 @@
+[ 1540697ms] [ERROR] ./src/components/content/About.tsx:4:1
+Module not found: Can't resolve '@/data/about'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import { aboutData } from "@/data/about";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import type { SectionVariant } from "./SectionRenderer";
+  6 |
+  7 | const styles = {
+
+Import map: aliased to relative './src/data/about' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./src/components/content/About.tsx [Client Component Browser]
+    ./src/components/content/SectionRenderer.tsx [Client Component Browser]
+    ./src/components/terminal/Terminal.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/content/About.tsx [Client Component SSR]
+    ./src/components/content/SectionRenderer.tsx [Client Component SSR]
+    ./src/components/terminal/Terminal.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_f3530cac._.js:3127
+[ 1540791ms] [ERROR] ./src/components/content/About.tsx:4:1
+Module not found: Can't resolve '@/data/about'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import { aboutData } from "@/data/about";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import type { SectionVariant } from "./SectionRenderer";
+  6 |
+  7 | const styles = {
+
+Import map: aliased to relative './src/data/about' inside of [project]/
+
+Import traces:
+  Client Component Browser:
+    ./src/components/content/About.tsx [Client Component Browser]
+    ./src/components/content/SectionRenderer.tsx [Client Component Browser]
+    ./src/components/terminal/Terminal.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/content/About.tsx [Client Component SSR]
+    ./src/components/content/SectionRenderer.tsx [Client Component SSR]
+    ./src/components/terminal/Terminal.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_f3530cac._.js:3127
