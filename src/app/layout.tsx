@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Dev Backend",
+  title: "Otto's Portfolio - Backend Developer",
   description:
     "Portfólio em formato de terminal e interface macOS. Navegue por about, career, skills, projects e contact.",
   openGraph: {
-    title: "Portfolio | Dev Backend",
+    title: "Otto's Portfolio - Backend Developer",
     description:
       "Portfólio em formato de terminal e interface macOS. Navegue por about, career, skills, projects e contact.",
   },

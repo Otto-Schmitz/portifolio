@@ -115,8 +115,12 @@ export type Translations = {
   skills_backend: string;
   skills_databases: string;
   skills_tools: string;
-  /* Conteúdo – Projects (seção em construção); link GitHub entre prefix e suffix */
+  /* Conteúdo – Projects (seção em construção + 1 projeto) */
   projects_wip_message: string;
+  project_1_name: string;
+  project_1_description: string;
+  project_1_tech: string;
+  project_1_demo_label: string;
   projects_visit_github_prefix: string;
   projects_visit_github_suffix: string;
   /* Conteúdo – Contact */

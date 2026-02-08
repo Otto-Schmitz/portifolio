@@ -109,7 +109,12 @@ export const zh: Translations = {
   skills_backend: "Java · Spring Boot · Python · React · TypeScript · Node.js · Ruby on Rails · .NET · Express",
   skills_databases: "PostgreSQL · MySQL · SQLite · MariaDB",
   skills_tools: "Docker · AWS · Google Cloud (GCP) · Git · GitHub · GitLab · GitHub Actions · Swagger · JUnit · Jest",
-  projects_wip_message: "这个板块还在完善中，之后会在这里展示我做的项目。",
+  projects_wip_message: "这个板块还在完善中，之后会在这里展示更多项目。",
+  project_1_name: "smart-gitignore",
+  project_1_description:
+    "Node.js CLI，自动检测项目技术栈（Java、Node、Docker、Python 等）并基于 GitHub/gitignore 官方模板生成 .gitignore，支持回退到 gitignore.io。可智能合并已有规则并去重。",
+  project_1_tech: "TypeScript · Node.js · CLI",
+  project_1_demo_label: "查看演示",
   projects_visit_github_prefix: "欢迎先到我的 ",
   projects_visit_github_suffix: " 看看仓库和贡献。",
   contact_github_label: "GitHub",

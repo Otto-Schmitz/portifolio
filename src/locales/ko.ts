@@ -109,7 +109,12 @@ export const ko: Translations = {
   skills_backend: "Java · Spring Boot · Python · React · TypeScript · Node.js · Ruby on Rails · .NET · Express",
   skills_databases: "PostgreSQL · MySQL · SQLite · MariaDB",
   skills_tools: "Docker · AWS · Google Cloud (GCP) · Git · GitHub · GitLab · GitHub Actions · Swagger · JUnit · Jest",
-  projects_wip_message: "이 섹션은 아직 작업 중입니다. 곧 제가 진행한 프로젝트를 여기에 올릴 예정입니다.",
+  projects_wip_message: "이 섹션은 아직 작업 중입니다. 곧 더 많은 프로젝트를 올릴 예정입니다.",
+  project_1_name: "smart-gitignore",
+  project_1_description:
+    "프로젝트 스택(Java, Node, Docker, Python 등)을 자동으로 감지하고 GitHub/gitignore 공식 템플릿으로 .gitignore를 생성하는 Node.js CLI. gitignore.io 폴백, 기존 규칙과 스마트 병합, 중복 제거.",
+  project_1_tech: "TypeScript · Node.js · CLI",
+  project_1_demo_label: "데모 보기",
   projects_visit_github_prefix: "그동안 제 ",
   projects_visit_github_suffix: "에서 저장소와 기여 내용을 확인해 보세요.",
   contact_github_label: "GitHub",

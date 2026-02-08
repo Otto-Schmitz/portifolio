@@ -110,7 +110,12 @@ export const es: Translations = {
   skills_backend: "Java · Spring Boot · Python · React · TypeScript · Node.js · Ruby on Rails · .NET · Express",
   skills_databases: "PostgreSQL · MySQL · SQLite · MariaDB",
   skills_tools: "Docker · AWS · Google Cloud (GCP) · Git · GitHub · GitLab · GitHub Actions · Swagger · JUnit · Jest",
-  projects_wip_message: "Sigo trabajando en esta sección. Pronto encontrarás aquí proyectos que he desarrollado.",
+  projects_wip_message: "Sigo trabajando en esta sección. Pronto añadiré más proyectos aquí.",
+  project_1_name: "smart-gitignore",
+  project_1_description:
+    "CLI en Node.js que detecta automáticamente la stack del proyecto (Java, Node, Docker, Python, etc.) y genera un .gitignore usando las plantillas oficiales de GitHub/gitignore, con fallback a gitignore.io. Merge inteligente con reglas existentes y sin duplicados.",
+  project_1_tech: "TypeScript · Node.js · CLI",
+  project_1_demo_label: "Ver demo",
   projects_visit_github_prefix: "Mientras tanto, te invito a visitar mi ",
   projects_visit_github_suffix: " para ver repositorios y contribuciones.",
   contact_github_label: "GitHub",
