@@ -22,16 +22,13 @@ Personal portfolio as a **terminal** and **macOS-style (Finder)** interface. Con
 
 ### Screenshots
 
-Add application screenshots to the `docs/screenshots/` folder. Suggested files:
+| Terminal | Finder (GUI) |
+|----------|--------------|
+| ![Terminal](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| File | Description |
-|------|-------------|
-| `01-terminal.png` | Terminal mode: prompt, history (e.g. `ls` or `help`), bottom dock |
-| `02-finder.png` | macOS-style window: header, Finder with sidebar (Favorites) and content panel |
-| `03-dark-mode.png` | Same interface with dark theme enabled (Settings → Dark mode) |
-| `04-settings.png` | Settings modal: Appearance (dark mode toggle) and language list |
-
-See `docs/screenshots/README.md` for details. Recommended: PNG, ~800–1200 px width.
+| Dark mode | Settings |
+|-----------|----------|
+| ![Dark mode](docs/screenshots/03-dark-mode.png) | ![Settings](docs/screenshots/04-settings.png) |
 
 ### Supported languages
 
@@ -108,16 +105,13 @@ npm run dev
 
 ### Screenshots
 
-Adicione os prints da aplicação na pasta `docs/screenshots/`. Sugestão de arquivos:
+| Terminal | Finder (GUI) |
+|----------|--------------|
+| ![Terminal](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| Arquivo | Descrição |
-|---------|-----------|
-| `01-terminal.png` | Modo terminal: prompt, histórico (ex.: `ls` ou `help`), dock inferior |
-| `02-finder.png` | Janela estilo macOS: header, Finder com sidebar (Favoritos) e painel de conteúdo |
-| `03-dark-mode.png` | Mesma interface com tema escuro ativado (Configurações → Modo escuro) |
-| `04-settings.png` | Modal de configurações: Aparência (toggle modo escuro) e lista de idiomas |
-
-Detalhes em `docs/screenshots/README.md`. Recomendado: PNG, largura ~800–1200 px.
+| Modo escuro | Configurações |
+|-------------|---------------|
+| ![Modo escuro](docs/screenshots/03-dark-mode.png) | ![Configurações](docs/screenshots/04-settings.png) |
 
 ### Idiomas suportados
 
@@ -194,16 +188,13 @@ npm run dev
 
 ### 截图
 
-请将应用截图放入 `docs/screenshots/` 文件夹。建议文件名：
+| 终端 | Finder (GUI) |
+|------|--------------|
+| ![终端](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| 文件 | 说明 |
-|------|------|
-| `01-terminal.png` | 终端模式：提示符、历史记录（如 `ls` 或 `help`）、底部 dock |
-| `02-finder.png` | 类 macOS 窗口：标题栏、Finder 侧边栏（收藏夹）与内容区 |
-| `03-dark-mode.png` | 同一界面开启深色主题（设置 → 深色模式） |
-| `04-settings.png` | 设置弹窗：外观（深色模式开关）与语言列表 |
-
-详见 `docs/screenshots/README.md`。建议：PNG，宽度约 800–1200 px。
+| 深色模式 | 设置 |
+|----------|------|
+| ![深色模式](docs/screenshots/03-dark-mode.png) | ![设置](docs/screenshots/04-settings.png) |
 
 ### 支持的语言
 
@@ -280,16 +271,13 @@ npm run dev
 
 ### 스크린샷
 
-`docs/screenshots/` 폴더에 앱 스크린샷을 넣어 주세요. 권장 파일명:
+| 터미널 | Finder (GUI) |
+|--------|--------------|
+| ![터미널](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| 파일 | 설명 |
-|------|------|
-| `01-terminal.png` | 터미널 모드: 프롬프트, 기록(예: `ls`, `help`), 하단 독 |
-| `02-finder.png` | macOS 스타일 창: 헤더, 사이드바(즐겨찾기)와 콘텐츠 패널이 있는 Finder |
-| `03-dark-mode.png` | 다크 테마 적용(설정 → 다크 모드) |
-| `04-settings.png` | 설정 모달: 디자인(다크 모드 토글) 및 언어 목록 |
-
-자세한 내용은 `docs/screenshots/README.md` 참고. 권장: PNG, 너비 약 800–1200 px.
+| 다크 모드 | 설정 |
+|-----------|------|
+| ![다크 모드](docs/screenshots/03-dark-mode.png) | ![설정](docs/screenshots/04-settings.png) |
 
 ### 지원 언어
 
@@ -366,16 +354,13 @@ npm run dev
 
 ### スクリーンショット
 
-`docs/screenshots/` フォルダにアプリのスクリーンショットを追加してください。推奨ファイル名：
+| ターミナル | Finder (GUI) |
+|------------|--------------|
+| ![ターミナル](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| ファイル | 説明 |
-|----------|------|
-| `01-terminal.png` | ターミナルモード：プロンプト、履歴（例：`ls`、`help`）、下部ドック |
-| `02-finder.png` | macOS風ウィンドウ：ヘッダー、サイドバー（お気に入り）とコンテンツパネルのFinder |
-| `03-dark-mode.png` | ダークテーマ有効（設定 → ダークモード） |
-| `04-settings.png` | 設定モーダル：外観（ダークモードトグル）と言語一覧 |
-
-詳細は `docs/screenshots/README.md` を参照。推奨：PNG、幅 800–1200 px 程度。
+| ダークモード | 設定 |
+|--------------|------|
+| ![ダークモード](docs/screenshots/03-dark-mode.png) | ![設定](docs/screenshots/04-settings.png) |
 
 ### 対応言語
 
@@ -452,16 +437,13 @@ npm run dev
 
 ### Screenshots
 
-Bitte Screenshots der Anwendung im Ordner `docs/screenshots/` ablegen. Vorgeschlagene Dateinamen:
+| Terminal | Finder (GUI) |
+|----------|--------------|
+| ![Terminal](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| Datei | Beschreibung |
-|-------|--------------|
-| `01-terminal.png` | Terminalmodus: Prompt, Verlauf (z. B. `ls` oder `help`), Dock unten |
-| `02-finder.png` | macOS-artiges Fenster: Header, Finder mit Sidebar (Favoriten) und Inhaltsbereich |
-| `03-dark-mode.png` | Dieselbe Oberfläche mit aktiviertem Dark Mode (Einstellungen → Dunkelmodus) |
-| `04-settings.png` | Einstellungs-Modal: Darstellung (Dunkelmodus-Umschalter) und Sprachenliste |
-
-Details in `docs/screenshots/README.md`. Empfohlen: PNG, Breite ca. 800–1200 px.
+| Dunkelmodus | Einstellungen |
+|-------------|---------------|
+| ![Dunkelmodus](docs/screenshots/03-dark-mode.png) | ![Einstellungen](docs/screenshots/04-settings.png) |
 
 ### Unterstützte Sprachen
 
@@ -538,16 +520,13 @@ npm run dev
 
 ### Capturas de pantalla
 
-Añade capturas de la aplicación en la carpeta `docs/screenshots/`. Archivos sugeridos:
+| Terminal | Finder (GUI) |
+|----------|--------------|
+| ![Terminal](docs/screenshots/01-terminal.png) | ![Finder](docs/screenshots/02-finder.png) |
 
-| Archivo | Descripción |
-|---------|-------------|
-| `01-terminal.png` | Modo terminal: prompt, historial (ej. `ls` o `help`), dock inferior |
-| `02-finder.png` | Ventana estilo macOS: cabecera, Finder con barra lateral (Favoritos) y panel de contenido |
-| `03-dark-mode.png` | Misma interfaz con tema oscuro activado (Ajustes → Modo oscuro) |
-| `04-settings.png` | Modal de ajustes: Apariencia (interruptor modo oscuro) y lista de idiomas |
-
-Detalles en `docs/screenshots/README.md`. Recomendado: PNG, anchura ~800–1200 px.
+| Modo oscuro | Ajustes |
+|-------------|---------|
+| ![Modo oscuro](docs/screenshots/03-dark-mode.png) | ![Ajustes](docs/screenshots/04-settings.png) |
 
 ### Idiomas soportados
 
