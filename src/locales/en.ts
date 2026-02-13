@@ -2,6 +2,12 @@ import type { Translations } from "./types";
 
 export const en: Translations = {
   app_skipLink: "Skip to main content",
+  terminal_welcome_subtitle: "Software Developer | Java | Python",
+  terminal_welcome_greeting: "Welcome to my interactive portfolio!",
+  terminal_welcome_description: "Here you can explore my work, skills and experience.",
+  terminal_welcome_hint_terminal: "Terminal: type 'help' to see available commands",
+  terminal_welcome_hint_gui: "GUI: type 'gui' or click the Finder icon in the dock below",
+  terminal_welcome_hint_lang: "Language: type 'lang' to change (pt-BR, en, zh, ko, ja, de, es)",
   terminal_help_title: "Available commands:",
   terminal_help_ls: "  ls              list files and directories",
   terminal_help_cd: "  cd <dir>        change directory (e.g. cd about)",

@@ -2,6 +2,12 @@ import type { Translations } from "./types";
 
 export const ko: Translations = {
   app_skipLink: "본문으로 건너뛰기",
+  terminal_welcome_subtitle: "소프트웨어 개발자 | Java | Python",
+  terminal_welcome_greeting: "인터랙티브 포트폴리오에 오신 것을 환영합니다!",
+  terminal_welcome_description: "여기서 저의 작업, 기술, 경험을 탐색할 수 있습니다.",
+  terminal_welcome_hint_terminal: "터미널: 'help'를 입력하면 사용 가능한 명령을 볼 수 있습니다",
+  terminal_welcome_hint_gui: "GUI: 'gui'를 입력하거나 아래 독의 Finder 아이콘을 클릭하세요",
+  terminal_welcome_hint_lang: "언어: 'lang'을 입력하여 변경 (pt-BR, en, zh, ko, ja, de, es)",
   terminal_help_title: "사용 가능한 명령:",
   terminal_help_ls: "  ls              파일 및 디렉토리 목록",
   terminal_help_cd: "  cd <dir>        디렉토리 변경 (예: cd about)",

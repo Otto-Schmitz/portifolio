@@ -9,6 +9,7 @@ import { SectionRenderer } from "@/components/content/SectionRenderer";
 import { TerminalOutput } from "@/components/terminal/TerminalOutput";
 import { HelpOutput } from "@/components/terminal/HelpOutput";
 import { AppDock } from "@/components/shared/AppDock";
+import { WelcomeBanner } from "@/components/terminal/WelcomeBanner";
 import { loadTheme, saveTheme, type TerminalTheme } from "@/components/terminal/theme";
 
 type Line = {
@@ -33,6 +34,7 @@ export function Terminal() {
   const [history, setHistory] = useState<string[]>([]);
   const [historyIndex, setHistoryIndex] = useState<number>(0);
   const [theme, setThemeState] = useState<TerminalTheme>(() => loadTheme());
+  const [showBanner, setShowBanner] = useState(true);
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const tabCycleRef = useRef({ lastInput: "", cycleIndex: 0 });
@@ -66,6 +68,7 @@ export function Terminal() {
 
       if (result.type === "clear") {
         setLines([]);
+        setShowBanner(false);
         return;
       }
 
@@ -213,6 +216,7 @@ export function Terminal() {
         ref={containerRef}
         className="terminal-scroll flex-1 min-h-0 mb-2"
       >
+        {showBanner && <WelcomeBanner theme={theme} />}
         <TerminalOutput
           lines={lines}
           currentDir={currentDir}

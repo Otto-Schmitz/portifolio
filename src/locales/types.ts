@@ -12,6 +12,13 @@ export type LocaleCode = (typeof LOCALES)[number];
 
 export type Translations = {
   app_skipLink: string;
+  /* Welcome banner */
+  terminal_welcome_subtitle: string;
+  terminal_welcome_greeting: string;
+  terminal_welcome_description: string;
+  terminal_welcome_hint_terminal: string;
+  terminal_welcome_hint_gui: string;
+  terminal_welcome_hint_lang: string;
   terminal_help_title: string;
   terminal_help_ls: string;
   terminal_help_cd: string;

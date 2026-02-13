@@ -2,6 +2,12 @@ import type { Translations } from "./types";
 
 export const ja: Translations = {
   app_skipLink: "メインコンテンツへスキップ",
+  terminal_welcome_subtitle: "ソフトウェア開発者 | Java | Python",
+  terminal_welcome_greeting: "インタラクティブポートフォリオへようこそ！",
+  terminal_welcome_description: "ここでは私の仕事、スキル、経験をご覧いただけます。",
+  terminal_welcome_hint_terminal: "ターミナル: 'help' と入力してコマンド一覧を表示",
+  terminal_welcome_hint_gui: "GUI: 'gui' と入力するか、下のDockのFinderアイコンをクリック",
+  terminal_welcome_hint_lang: "言語: 'lang' と入力して変更 (pt-BR, en, zh, ko, ja, de, es)",
   terminal_help_title: "利用可能なコマンド：",
   terminal_help_ls: "  ls              ファイルとディレクトリを一覧表示",
   terminal_help_cd: "  cd <dir>        ディレクトリを変更（例：cd about）",

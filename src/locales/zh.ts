@@ -2,6 +2,12 @@ import type { Translations } from "./types";
 
 export const zh: Translations = {
   app_skipLink: "跳到主内容",
+  terminal_welcome_subtitle: "软件工程师 | Java | Python",
+  terminal_welcome_greeting: "欢迎来到我的互动作品集！",
+  terminal_welcome_description: "在这里您可以浏览我的作品、技能和经验。",
+  terminal_welcome_hint_terminal: "终端：输入 'help' 查看可用命令",
+  terminal_welcome_hint_gui: "界面：输入 'gui' 或点击下方 Dock 栏的 Finder 图标",
+  terminal_welcome_hint_lang: "语言：输入 'lang' 切换 (pt-BR, en, zh, ko, ja, de, es)",
   terminal_help_title: "可用命令：",
   terminal_help_ls: "  ls              列出文件和目录",
   terminal_help_cd: "  cd <dir>        切换目录（如 cd about）",
