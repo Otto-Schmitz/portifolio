@@ -1,0 +1,169 @@
+{
+    "experiences": [
+      {
+        "role": "Engenheiro de Software",
+        "company": "BeeTouch",
+        "location": "Remoto",
+        "start_date": "2023-07",
+        "end_date": null,
+        "current": true,
+        "description": "Líder técnico no desenvolvimento e manutenção das plataformas Avax PSI e Avax PSI Mapeamento. Idealizador e principal responsável pela criação da Carina, chatbot para avaliação psicológica e coleta estruturada de dados. Desenvolvimento de ferramenta de alertas de risco para identificação automática de indicadores críticos como risco de suicídio e assédio, com notificações em tempo real para empresas. Atuação direta na integração com modelos de inteligência artificial para classificação de respostas, análise semântica e identificação de padrões comportamentais sensíveis.",
+        "responsibilities": [
+          "Definição de arquitetura baseada em DDD e Clean Architecture",
+          "Integração com modelos de IA para análise de linguagem natural e classificação de risco",
+          "Estruturação de fluxos com uso de MCP (Model Context Protocol) para integração com agentes e automações",
+          "Desenvolvimento backend com Java e Ruby on Rails",
+          "Desenvolvimento frontend com React",
+          "APIs com Express",
+          "Infraestrutura na AWS",
+          "Containerização com Docker",
+          "Modelagem e manutenção em PostgreSQL e MySQL",
+          "Testes unitários com JUnit e Jest"
+        ],
+        "technologies": [
+          "Java",
+          "React",
+          "Express",
+          "Ruby on Rails",
+          "Docker",
+          "AWS",
+          "PostgreSQL",
+          "MySQL",
+          "JUnit",
+          "Jest",
+          "DDD",
+          "Clean Architecture",
+          "MCP",
+          "LLMs",
+          "NLP"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "Cognitiva Brasil",
+        "location": "Remoto",
+        "start_date": "2024-07",
+        "end_date": "2025-07",
+        "current": false,
+        "description": "Responsável pela arquitetura, implementação e evolução do backend de uma plataforma de empregos. Liderança técnica no backend em Java e Spring Boot, definição de padrões e organização de código, desenvolvimento de APIs REST e regras de negócio centrais. Participação na estruturação de integrações com serviços inteligentes e automações baseadas em IA para apoio a processos internos.",
+        "responsibilities": [
+          "Arquitetura e organização do backend",
+          "Desenvolvimento de APIs REST",
+          "Integração com bancos de dados relacionais",
+          "Implementação de autenticação e autorização",
+          "Aplicação de DDD e Clean Architecture",
+          "Testes automatizados",
+          "Revisão de código e boas práticas",
+          "Estratégias de versionamento e deploy",
+          "Integração com serviços de IA para automação e enriquecimento de dados",
+          "Estruturação de APIs preparadas para integração com agentes inteligentes"
+        ],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "PostgreSQL",
+          "JPA",
+          "JUnit",
+          "Mockito",
+          "DDD",
+          "Clean Architecture",
+          "REST APIs",
+          "AI Integrations"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "Paipe",
+        "location": "Remoto",
+        "start_date": "2023-10",
+        "end_date": "2024-03",
+        "current": false,
+        "description": "Desenvolvedor pleno freelancer nos produtos Paiperon e Here. Atuação na otimização, manutenção e evolução funcional das plataformas, com foco em performance, experiência do usuário e escalabilidade. Participação na estruturação de integrações com serviços externos e experimentações com ferramentas baseadas em IA para apoio a fluxos internos.",
+        "responsibilities": [
+          "Otimização de performance",
+          "Implementação de novas funcionalidades",
+          "Evolução de features focadas em UX",
+          "Padronização e organização de código",
+          "Decisões técnicas e evolução contínua",
+          "Integração com APIs externas",
+          "Experimentação com ferramentas de IA para suporte a automações"
+        ],
+        "technologies": [
+          "TypeScript",
+          "Next.js",
+          "Node.js",
+          "REST APIs",
+          "AI Tools"
+        ]
+      },
+      {
+        "role": "Engenheiro de Software",
+        "company": "Greenmotor",
+        "location": "Híbrido",
+        "start_date": "2023-05",
+        "end_date": "2023-07",
+        "current": false,
+        "description": "Desenvolvimento full stack de solução baseada em IA para previsão e otimização de vendas e compras em supermercados. Criação de dashboard analítico para visualização de dados e métricas. Experiência na integração de modelos preditivos e processamento de dados para suporte à tomada de decisão.",
+        "responsibilities": [
+          "Desenvolvimento backend com Spring Boot e .NET",
+          "Desenvolvimento frontend com React",
+          "Modelagem de banco de dados",
+          "Criação de dashboard analítico",
+          "Integração com modelos preditivos",
+          "Testes unitários com JUnit, xUnit e Jest",
+          "Infraestrutura na GCP",
+          "Containerização com Docker"
+        ],
+        "technologies": [
+          "Spring Boot",
+          ".NET",
+          "React",
+          "Docker",
+          "GCP",
+          "PostgreSQL",
+          "MariaDB",
+          "JUnit",
+          "xUnit",
+          "Jest",
+          "Machine Learning Integration"
+        ]
+      },
+      {
+        "role": "Estagiário de Desenvolvimento de Software",
+        "company": "CWI Software",
+        "location": "Remoto",
+        "start_date": "2022-10",
+        "end_date": "2023-05",
+        "current": false,
+        "description": "Participação no programa Crescer, com desenvolvimento de aplicações web e APIs REST. Prática intensiva de Clean Architecture, DDD, TDD e microsserviços. Contato com fundamentos de sistemas distribuídos e automações, além de introdução a ferramentas modernas voltadas a integração com serviços inteligentes.",
+        "responsibilities": [
+          "Desenvolvimento de aplicações web com React",
+          "Criação de APIs REST com Spring Boot e .NET",
+          "Testes unitários",
+          "Documentação com Swagger",
+          "Containerização com Docker",
+          "Automação com GitHub Actions",
+          "Uso de PostgreSQL e SQLite",
+          "Aplicação de padrões arquiteturais (DDD, TDD, Onion)",
+          "Estudos e experimentações com integrações inteligentes"
+        ],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          ".NET",
+          "React",
+          "Docker",
+          "PostgreSQL",
+          "SQLite",
+          "Swagger",
+          "JUnit",
+          "xUnit",
+          "Jest",
+          "DDD",
+          "TDD",
+          "Clean Architecture",
+          "Onion Architecture"
+        ]
+      }
+    ]
+  }
