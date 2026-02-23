@@ -122,6 +122,51 @@ export const en: Translations = {
     "Node.js CLI that automatically detects the project stack (Java, Node, Docker, Python, etc.) and generates a .gitignore using official GitHub/gitignore templates, with fallback to gitignore.io. Smart merge with existing rules and duplicate removal.",
   project_1_tech: "TypeScript · Node.js · CLI",
   project_1_demo_label: "View demo",
+  project_2_name: "secry-api",
+  project_2_description:
+    "Java Spring Boot backend API for a secure personal data wallet, focused on health information, emergency contacts and identity, with JWT authentication and layered architecture.",
+  project_2_tech: "Java · Spring Boot · JWT",
+  project_2_demo_label: "View repository",
+  project_3_name: "secry-web",
+  project_3_description:
+    "React/TypeScript frontend built with Vite and Tailwind CSS for the Secry project interface, demonstrating full-stack delivery alongside the Secry API.",
+  project_3_tech: "React · TypeScript · Vite · Tailwind CSS",
+  project_3_demo_label: "View repository",
+  project_4_name: "homecash-api",
+  project_4_description:
+    "Java (Spring Boot) backend API for household expense management with multitenancy, JWT authentication and REST architecture best practices.",
+  project_4_tech: "Java · Spring Boot · JWT",
+  project_4_demo_label: "View repository",
+  project_5_name: "ottos-brownie-buddy",
+  project_5_description:
+    "TypeScript product/service application with practical business logic, demonstrating product feature integration and end-user delivery.",
+  project_5_tech: "TypeScript",
+  project_5_demo_label: "View repository",
+  project_6_name: "qcode_backend",
+  project_6_description:
+    "Web system backend API (REST) demonstrating service architecture and backend-frontend integration.",
+  project_6_tech: "Backend · REST API",
+  project_6_demo_label: "View repository",
+  project_7_name: "qcode",
+  project_7_description:
+    "QCode project frontend in React/TypeScript, demonstrating full-stack delivery with real API connection.",
+  project_7_tech: "React · TypeScript",
+  project_7_demo_label: "View repository",
+  project_8_name: "Short_Url-Backend",
+  project_8_description:
+    "Python (Flask) backend service for URL shortener, demonstrating REST API creation and data handling.",
+  project_8_tech: "Python · Flask",
+  project_8_demo_label: "View repository",
+  project_9_name: "MailSender",
+  project_9_description:
+    "Java Spring Boot backend API demonstrating integration with email sending services.",
+  project_9_tech: "Java · Spring Boot",
+  project_9_demo_label: "View repository",
+  project_10_name: "Edit_Google_Sheets_Example",
+  project_10_description:
+    "Python automation for editing Google Sheets via API, demonstrating integration with external services.",
+  project_10_tech: "Python · Google Sheets API",
+  project_10_demo_label: "View repository",
   projects_visit_github_prefix: "In the meantime, visit my ",
   projects_visit_github_suffix: " to see repositories and contributions.",
   contact_github_label: "GitHub",

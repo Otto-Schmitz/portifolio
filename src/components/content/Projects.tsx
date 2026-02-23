@@ -67,10 +67,14 @@ export function Projects({ variant }: { variant: SectionVariant }) {
               <a href={item.repoUrl} target="_blank" rel="noopener noreferrer" className={s.link}>
                 GitHub
               </a>
-              {" · "}
-              <a href={item.demoUrl} target="_blank" rel="noopener noreferrer" className={s.link}>
-                {t(`project_${item.id}_demo_label` as keyof typeof t)}
-              </a>
+              {item.demoUrl !== item.repoUrl && (
+                <>
+                  {" · "}
+                  <a href={item.demoUrl} target="_blank" rel="noopener noreferrer" className={s.link}>
+                    {t(`project_${item.id}_demo_label` as keyof typeof t)}
+                  </a>
+                </>
+              )}
             </p>
           </li>
         ))}

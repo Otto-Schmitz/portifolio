@@ -121,6 +121,51 @@ export const ja: Translations = {
     "プロジェクトのスタック（Java、Node、Docker、Python など）を自動検出し、GitHub/gitignore の公式テンプレートで .gitignore を生成する Node.js CLI。gitignore.io へのフォールバック、既存ルールとのスマートマージ、重複削除。",
   project_1_tech: "TypeScript · Node.js · CLI",
   project_1_demo_label: "デモを見る",
+  project_2_name: "secry-api",
+  project_2_description:
+    "健康情報・緊急連絡先・本人確認に特化した安全な個人データウォレット用 Java Spring Boot バックエンド API。JWT 認証とレイヤードアーキテクチャ。",
+  project_2_tech: "Java · Spring Boot · JWT",
+  project_2_demo_label: "リポジトリを見る",
+  project_3_name: "secry-web",
+  project_3_description:
+    "Vite と Tailwind CSS で構築した Secry プロジェクト用 React/TypeScript フロントエンド。Secry API と連携したフルスタック提供のデモ。",
+  project_3_tech: "React · TypeScript · Vite · Tailwind CSS",
+  project_3_demo_label: "リポジトリを見る",
+  project_4_name: "homecash-api",
+  project_4_description:
+    "マルチテナンシー・JWT 認証・REST アーキテクチャのベストプラクティスを備えた家計支出管理用 Java (Spring Boot) バックエンド API。",
+  project_4_tech: "Java · Spring Boot · JWT",
+  project_4_demo_label: "リポジトリを見る",
+  project_5_name: "ottos-brownie-buddy",
+  project_5_description:
+    "実用的なビジネスロジックを持つ TypeScript 製品/サービスアプリ。製品機能の統合とエンドユーザーへの提供のデモ。",
+  project_5_tech: "TypeScript",
+  project_5_demo_label: "リポジトリを見る",
+  project_6_name: "qcode_backend",
+  project_6_description:
+    "Web システム用バックエンド API (REST)。サービスアーキテクチャとバックエンド・フロントエンド連携のデモ。",
+  project_6_tech: "Backend · REST API",
+  project_6_demo_label: "リポジトリを見る",
+  project_7_name: "qcode",
+  project_7_description:
+    "QCode プロジェクトの React/TypeScript フロントエンド。実際の API 接続によるフルスタック提供のデモ。",
+  project_7_tech: "React · TypeScript",
+  project_7_demo_label: "リポジトリを見る",
+  project_8_name: "Short_Url-Backend",
+  project_8_description:
+    "URL 短縮サービスのための Python (Flask) バックエンド。REST API の作成とデータ処理のデモ。",
+  project_8_tech: "Python · Flask",
+  project_8_demo_label: "リポジトリを見る",
+  project_9_name: "MailSender",
+  project_9_description:
+    "メール送信サービスとの連携をデモする Java Spring Boot バックエンド API。",
+  project_9_tech: "Java · Spring Boot",
+  project_9_demo_label: "リポジトリを見る",
+  project_10_name: "Edit_Google_Sheets_Example",
+  project_10_description:
+    "API 経由で Google スプレッドシートを編集する Python 自動化。外部サービス連携のデモ。",
+  project_10_tech: "Python · Google Sheets API",
+  project_10_demo_label: "リポジトリを見る",
   projects_visit_github_prefix: "それまでに、私の ",
   projects_visit_github_suffix: " でリポジトリやコントリビューションをご覧ください。",
   contact_github_label: "GitHub",

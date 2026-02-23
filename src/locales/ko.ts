@@ -121,6 +121,51 @@ export const ko: Translations = {
     "프로젝트 스택(Java, Node, Docker, Python 등)을 자동으로 감지하고 GitHub/gitignore 공식 템플릿으로 .gitignore를 생성하는 Node.js CLI. gitignore.io 폴백, 기존 규칙과 스마트 병합, 중복 제거.",
   project_1_tech: "TypeScript · Node.js · CLI",
   project_1_demo_label: "데모 보기",
+  project_2_name: "secry-api",
+  project_2_description:
+    "건강 정보, 비상 연락처 및 신원에 초점을 둔 안전한 개인 데이터 지갑을 위한 Java Spring Boot 백엔드 API. JWT 인증 및 계층형 아키텍처.",
+  project_2_tech: "Java · Spring Boot · JWT",
+  project_2_demo_label: "저장소 보기",
+  project_3_name: "secry-web",
+  project_3_description:
+    "Vite와 Tailwind CSS로 구축한 Secry 프로젝트 인터페이스용 React/TypeScript 프론트엔드. Secry API와 함께 풀스택 제공 시연.",
+  project_3_tech: "React · TypeScript · Vite · Tailwind CSS",
+  project_3_demo_label: "저장소 보기",
+  project_4_name: "homecash-api",
+  project_4_description:
+    "멀티테넌시, JWT 인증 및 REST 아키텍처 모범 사례를 갖춘 가정용 지출 관리 Java (Spring Boot) 백엔드 API.",
+  project_4_tech: "Java · Spring Boot · JWT",
+  project_4_demo_label: "저장소 보기",
+  project_5_name: "ottos-brownie-buddy",
+  project_5_description:
+    "실용적인 비즈니스 로직을 갖춘 TypeScript 제품/서비스 애플리케이션. 제품 기능 통합 및 최종 사용자 전달 시연.",
+  project_5_tech: "TypeScript",
+  project_5_demo_label: "저장소 보기",
+  project_6_name: "qcode_backend",
+  project_6_description:
+    "웹 시스템 백엔드 API(REST). 서비스 아키텍처 및 백엔드-프론트엔드 연동 능력 시연.",
+  project_6_tech: "Backend · REST API",
+  project_6_demo_label: "저장소 보기",
+  project_7_name: "qcode",
+  project_7_description:
+    "React/TypeScript 기반 QCode 프로젝트 프론트엔드. 실제 API 연결과 풀스택 제공 시연.",
+  project_7_tech: "React · TypeScript",
+  project_7_demo_label: "저장소 보기",
+  project_8_name: "Short_Url-Backend",
+  project_8_description:
+    "URL 단축 서비스를 위한 Python (Flask) 백엔드. REST API 생성 및 데이터 처리 시연.",
+  project_8_tech: "Python · Flask",
+  project_8_demo_label: "저장소 보기",
+  project_9_name: "MailSender",
+  project_9_description:
+    "이메일 발송 서비스 연동을 시연하는 Java Spring Boot 백엔드 API.",
+  project_9_tech: "Java · Spring Boot",
+  project_9_demo_label: "저장소 보기",
+  project_10_name: "Edit_Google_Sheets_Example",
+  project_10_description:
+    "API를 통한 Google Sheets 편집용 Python 자동화. 외부 서비스 연동 시연.",
+  project_10_tech: "Python · Google Sheets API",
+  project_10_demo_label: "저장소 보기",
   projects_visit_github_prefix: "그동안 제 ",
   projects_visit_github_suffix: "에서 저장소와 기여 내용을 확인해 보세요.",
   contact_github_label: "GitHub",

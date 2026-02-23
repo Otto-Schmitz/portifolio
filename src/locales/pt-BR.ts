@@ -122,6 +122,51 @@ export const ptBR: Translations = {
     "CLI em Node.js que detecta automaticamente a stack do projeto (Java, Node, Docker, Python, etc.) e gera um .gitignore usando os templates oficiais do GitHub/gitignore, com fallback para gitignore.io. Faz merge inteligente com regras existentes e remove duplicatas.",
   project_1_tech: "TypeScript · Node.js · CLI",
   project_1_demo_label: "Ver demonstração",
+  project_2_name: "secry-api",
+  project_2_description:
+    "API backend em Java com Spring Boot para uma carteira de dados pessoais segura, focada em informações de saúde, contatos de emergência e identidade, com autenticação JWT e arquitetura em camadas.",
+  project_2_tech: "Java · Spring Boot · JWT",
+  project_2_demo_label: "Ver repositório",
+  project_3_name: "secry-web",
+  project_3_description:
+    "Frontend em React/TypeScript construído com Vite e Tailwind CSS para interface do projeto Secry, demonstrando entrega full-stack junto à API Secry.",
+  project_3_tech: "React · TypeScript · Vite · Tailwind CSS",
+  project_3_demo_label: "Ver repositório",
+  project_4_name: "homecash-api",
+  project_4_description:
+    "API backend em Java (Spring Boot) para gestão de despesas domésticas com multitenancy, autenticação JWT e boas práticas de arquitetura REST.",
+  project_4_tech: "Java · Spring Boot · JWT",
+  project_4_demo_label: "Ver repositório",
+  project_5_name: "ottos-brownie-buddy",
+  project_5_description:
+    "Aplicação de produto/serviço em TypeScript com lógica prática de negócio, demonstrando integração de features de produto e entrega para usuário final.",
+  project_5_tech: "TypeScript",
+  project_5_demo_label: "Ver repositório",
+  project_6_name: "qcode_backend",
+  project_6_description:
+    "Backend API de sistema web (REST) mostrando habilidade com arquitetura de serviços e integração backend-frontend.",
+  project_6_tech: "Backend · REST API",
+  project_6_demo_label: "Ver repositório",
+  project_7_name: "qcode",
+  project_7_description:
+    "Frontend do projeto QCode em React/TypeScript, útil para demonstrar entrega full-stack com conexão real à API.",
+  project_7_tech: "React · TypeScript",
+  project_7_demo_label: "Ver repositório",
+  project_8_name: "Short_Url-Backend",
+  project_8_description:
+    "Serviço backend em Python (Flask) para encurtador de URLs, evidenciando criação de APIs REST e manipulação de dados.",
+  project_8_tech: "Python · Flask",
+  project_8_demo_label: "Ver repositório",
+  project_9_name: "MailSender",
+  project_9_description:
+    "API backend em Java Spring Boot demonstrando integração com serviços de envio de email.",
+  project_9_tech: "Java · Spring Boot",
+  project_9_demo_label: "Ver repositório",
+  project_10_name: "Edit_Google_Sheets_Example",
+  project_10_description:
+    "Automação em Python para edição de planilhas Google Sheets via API, mostrando integração com serviços externos.",
+  project_10_tech: "Python · Google Sheets API",
+  project_10_demo_label: "Ver repositório",
   projects_visit_github_prefix: "Enquanto isso, visite meu ",
   projects_visit_github_suffix: " para ver repositórios e contribuições.",
   contact_github_label: "GitHub",

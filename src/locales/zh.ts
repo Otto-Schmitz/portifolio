@@ -121,6 +121,51 @@ export const zh: Translations = {
     "Node.js CLI，自动检测项目技术栈（Java、Node、Docker、Python 等）并基于 GitHub/gitignore 官方模板生成 .gitignore，支持回退到 gitignore.io。可智能合并已有规则并去重。",
   project_1_tech: "TypeScript · Node.js · CLI",
   project_1_demo_label: "查看演示",
+  project_2_name: "secry-api",
+  project_2_description:
+    "Java Spring Boot 后端 API，用于安全个人数据钱包，侧重健康信息、紧急联系人与身份，含 JWT 认证与分层架构。",
+  project_2_tech: "Java · Spring Boot · JWT",
+  project_2_demo_label: "查看仓库",
+  project_3_name: "secry-web",
+  project_3_description:
+    "React/TypeScript 前端，使用 Vite 与 Tailwind CSS 构建 Secry 项目界面，与 Secry API 配合展示全栈交付。",
+  project_3_tech: "React · TypeScript · Vite · Tailwind CSS",
+  project_3_demo_label: "查看仓库",
+  project_4_name: "homecash-api",
+  project_4_description:
+    "Java (Spring Boot) 后端 API，用于家庭支出管理，支持多租户、JWT 认证及 REST 架构最佳实践。",
+  project_4_tech: "Java · Spring Boot · JWT",
+  project_4_demo_label: "查看仓库",
+  project_5_name: "ottos-brownie-buddy",
+  project_5_description:
+    "TypeScript 产品/服务应用，包含实用业务逻辑，展示产品功能集成与面向最终用户的交付。",
+  project_5_tech: "TypeScript",
+  project_5_demo_label: "查看仓库",
+  project_6_name: "qcode_backend",
+  project_6_description:
+    "Web 系统后端 API (REST)，展示服务架构与前后端集成能力。",
+  project_6_tech: "Backend · REST API",
+  project_6_demo_label: "查看仓库",
+  project_7_name: "qcode",
+  project_7_description:
+    "QCode 项目 React/TypeScript 前端，展示与真实 API 连接的全栈交付。",
+  project_7_tech: "React · TypeScript",
+  project_7_demo_label: "查看仓库",
+  project_8_name: "Short_Url-Backend",
+  project_8_description:
+    "Python (Flask) 后端服务，用于短链接生成，展示 REST API 创建与数据处理。",
+  project_8_tech: "Python · Flask",
+  project_8_demo_label: "查看仓库",
+  project_9_name: "MailSender",
+  project_9_description:
+    "Java Spring Boot 后端 API，展示与邮件发送服务的集成。",
+  project_9_tech: "Java · Spring Boot",
+  project_9_demo_label: "查看仓库",
+  project_10_name: "Edit_Google_Sheets_Example",
+  project_10_description:
+    "Python 自动化脚本，通过 API 编辑 Google Sheets，展示与外部服务的集成。",
+  project_10_tech: "Python · Google Sheets API",
+  project_10_demo_label: "查看仓库",
   projects_visit_github_prefix: "欢迎先到我的 ",
   projects_visit_github_suffix: " 看看仓库和贡献。",
   contact_github_label: "GitHub",
