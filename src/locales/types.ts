@@ -117,11 +117,17 @@ export type Translations = {
   career_5_description: string;
   /* Conteúdo – Skills (labels e listas separadas por " · ") */
   skills_label_backend: string;
+  skills_label_frontend: string;
   skills_label_databases: string;
-  skills_label_tools: string;
+  skills_label_devops: string;
+  skills_label_testing_quality: string;
+  skills_label_ai: string;
   skills_backend: string;
+  skills_frontend: string;
   skills_databases: string;
-  skills_tools: string;
+  skills_devops: string;
+  skills_testing_quality: string;
+  skills_ai: string;
   /* Conteúdo – Projects */
   projects_wip_message: string;
   project_1_name: string;
